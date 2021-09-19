@@ -201,21 +201,6 @@ sr.reveal('.skills__data',{interval: 200});
 sr.reveal('.skills__img',{delay: 600});
 
 /*SCROLL EDUCATION*/
-sr.reveal('.education__content',{interval:200}); 
+sr.reveal('.qualification',{interval:200}); 
 
-/*SCROLL EXPERIENCE*/
-sr.reveal('.experience__content',{interval:200});
-
-
-
-
-/*SCROLL WORK*/
-sr.reveal('.work',{interval: 200}); 
-
-/*SCROLL CONTACT*/
-sr.reveal('.contact__input',{interval: 200}); 
-
-
-
-//footer button
 
