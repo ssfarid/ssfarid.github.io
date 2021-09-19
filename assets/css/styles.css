@@ -366,6 +366,10 @@ img{
     font-weight: var(--font-medium);
 }
 
+.buttonfooter{
+    display: inline-block;
+}
+
 .button:hover{
     background-color: var(--first-color-alt);
 }
@@ -831,6 +835,8 @@ img{
 /*==================== FOOTER ====================*/
 .footer{
     padding-top: 2rem;
+    background-color: var(--first-color-second);
+    text-align: center;
 }
 
 .footer__container{
@@ -843,7 +849,7 @@ img{
 }
 
 .footer__title{
-    font-size: var(--h1-font-size);
+    font-size: var(--h2-font-size);
     margin-bottom: var(--mb-0-25);
 }
 
@@ -882,6 +888,7 @@ img{
 .footer__social{
     color: #FFF;
 }
+
 
 /*========== SCROLL UP ==========*/
 .scrollup{
