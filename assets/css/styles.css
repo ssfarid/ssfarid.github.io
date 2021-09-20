@@ -595,6 +595,8 @@ img{
     border-bottom: 3px solid var(--first-color-alt);
     border-radius: .2rem;
 }
+
+.qualification__container{}
 /*==================== SERVICES ====================*/
 .services__container{
     gap: 1.5rem;
