@@ -201,6 +201,6 @@ sr.reveal('.skills__data',{interval: 200});
 sr.reveal('.skills__img',{delay: 600});
 
 /*SCROLL EDUCATION*/
-sr.reveal('qualification__sections',{interval:200}); 
+sr.reveal('qualification__container',{interval:200}); 
 
 
