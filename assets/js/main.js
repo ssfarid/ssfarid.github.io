@@ -187,7 +187,9 @@ themeButton.addEventListener('click', () => {
 sr.reveal('.home__title',{}); 
 sr.reveal('.button',{delay: 200}); 
 sr.reveal('.home__img',{delay: 400}); 
+sr.reveal('.home__description',{delay: 400}); 
 sr.reveal('.home__social-icon',{ interval: 200}); 
+sr.reveal('.home_scroll',{delay: 200}); 
 
 /*SCROLL ABOUT*/
 sr.reveal('.about__img',{}); 
@@ -201,6 +203,18 @@ sr.reveal('.skills__data',{interval: 200});
 sr.reveal('.skills__img',{delay: 600});
 
 /*SCROLL EDUCATION*/
-sr.reveal('qualification__container',{interval:200}); 
+sr.reveal('.qualification__sections',{interval:200}); 
 
+
+
+
+/*SCROLL WORK*/
+sr.reveal('.work',{interval: 200}); 
+
+/*SCROLL CONTACT*/
+sr.reveal('.contact__input',{interval: 200}); 
+
+
+
+//footer button
 
